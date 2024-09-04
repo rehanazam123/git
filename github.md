@@ -12,3 +12,5 @@
   - us k bad idr
    ![im](image-3.png)
   - idr se hum is ko commit kry g
+  - ![alt text](image-4.png)
+  - agr hum n git p upload krni ha tu publish p click kr d g 
