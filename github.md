@@ -14,3 +14,6 @@
   - idr se hum is ko commit kry g
   - ![alt text](image-4.png)
   - agr hum n git p upload krni ha tu publish p click kr d g 
+
+
+publish krty h file git p upload ho jye g
